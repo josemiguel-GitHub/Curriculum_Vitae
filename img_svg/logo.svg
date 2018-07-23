@@ -1,0 +1,14 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+   <title>Logo con Iniciales JMA por Jose Miguel Aguilera</title>
+   <desc>
+    Este Logo  se elaboro con la herramienta svg - edit online para el proyecto de Hoja de Vida Digital
+    para la Certificacion de Fundamentos de HTML de NextUniversity.
+   </desc>
+   <ellipse cx="76.999995" cy="129.899996" fill="#00007f" id="svg_3" rx="76.999998" ry="99.000005" stroke="black" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3"/> <!--Con la etiqueta stroke-width se le agrego un grosor de linea de "3"-->
+   <text fill="#ffffff" font-family="Fantasy" font-size="24" font-style="normal" font-weight="bold" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(2.70268, 0, 0, 2.52079, -321.517, -111.383)" x="146.890463" xml:space="preserve" y="97.646059">JMA</text>
+   <text fill="#00ff00" font-family="Cursive" font-size="24" id="svg_7" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.49242, 0, 0, 1.12432, -65.3686, -18.4756)" x="93.066499" xml:space="preserve" y="170.495163">nextu</text>
+ </g>
+</svg>
